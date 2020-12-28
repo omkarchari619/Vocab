@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/omkarchari619/Vocab/issues"
   },
-  "homepage": "https://github.com/omkarchari619/Vocab#readme"
+  "homepage": "https://github.com/omkarchari619/Vocab#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.1"
+  }
 }
