@@ -1,3 +1,22 @@
-{
-    
-}
+[
+    {
+        "name": "retrospective",
+        "meaning": "looking back on or dealing with past events or situations.",
+        "example": "our survey was retrospective"
+    },
+    {
+        "name": "ad hoc",
+        "meaning": "when necessary or needed",
+        "example": "the discussions were on an ad-hoc basis"
+    },
+    {
+        "name": "curb-stomp",
+        "meaning": "a form of assault in which a victim's mouth is forcefully placed on a curb and then stomped from behind",
+        "example": ""
+    },
+    {
+        "name": "paparazzi",
+        "meaning": "are independent photographers who take pictures of high-profile people, such as actors, athletes, politicians, and other celebrities, typically while subjects go about their usual life routines",
+        "example": "The paparazzi were armed with cameras not AK-47s"
+    }
+]
